@@ -1,0 +1,7 @@
+<krpano onstart="startup();">
+    <action name="startup" type="Javascript" devices="html5">
+        <![CDATA[
+alert(document.domain);
+        ]]>
+    </action>
+</krpano>
